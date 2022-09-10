@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/1Wpazk4ObZoZ8Af5r_qAIpObykbxiVHVN?usp=sharing
+
+Model accuracy : 94.52%
